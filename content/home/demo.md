@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-## Academician & Researcher
+## ...*Promoting Research Excellence
 
