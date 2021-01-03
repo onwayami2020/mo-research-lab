@@ -25,7 +25,7 @@ subtitle = ""
   # color = "ocean"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
+  gradient_start = "Ocean"
   gradient_end = "ForestGreen"
   
   # Background image.
