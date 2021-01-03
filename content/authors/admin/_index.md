@@ -6,11 +6,11 @@ title: Kabiru Maitama Kura
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of HRM & Organisational Behaviour
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universiti Teknologi Brunei
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
