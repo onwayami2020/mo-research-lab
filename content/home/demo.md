@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  
 
-title = "Kabiru M. Kura, Ph.D."
+title = ""
 subtitle = ""
 
 [design]
