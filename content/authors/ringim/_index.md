@@ -70,10 +70,14 @@ user_groups:
 - Researchers
 ---
 <div class=text-justify> 
+
 Kabiru Jinjiri Ringim is an Associate Professor of Business Administration at the ABU Business School, Ahmadu Bello University, Zaria. His research interests focus on Business Process Reengineering, Information Technology Capability, Information and Communication Technology, Operation and Production Management, and Supply Chain Management. Ringim is an Associate Fellow (IIBI London) and Member of Malaysian Institute of Management and The Academy of Management Nigeria. 
+
 </div>
 
 
 <div class=text-justify>  
+
 Kabiru earned a Doctor of Philosophy degree (Ph.D.) in Operations Management from Universiti Utara Malaysia. Kabiru has published in Google Scholar, SCOPUS, Web of Science and ABDC Listed journals, such as International Journal of Asian Business and Information Management, International Journal of Islamic and Middle Eastern Finance and Management, International Journal of Economic Research, Asian Social Science, Middle East Journal of Scientific Research, Journal of Internet Banking and Commerce, and SAGE Open.
+
 </div>
