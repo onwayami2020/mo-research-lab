@@ -92,4 +92,4 @@ He is a member, Asian Fellowship of Academic Professionals (AFAP), member, Niger
 
 </div>
 
-[Personal website]https://www.kmkura.com/)
+[Personal website](https://www.kmkura.com/)
