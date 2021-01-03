@@ -50,18 +50,18 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dr-kabiru-maitama-kura-6272aa34/
-  - link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
+  - link: https://scholar.google.com/citations?user=eC5wDncAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
   - icon_pack: ai
     icon: publons
-    link: https://publons.com/researcher/1314624/kabiru-maitama-kura/
-  - link: https://orcid.org/0000-0001-7863-2604
+    link: https://publons.com/researcher/3658461/kabiru-jinjiri-ringim/
+  - link: https://orcid.org/0000-0002-4708-231X
     icon_pack: ai
     icon: orcid
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Kabiru_Kura
+    link: https://www.researchgate.net/profile/Kabiru_Ringim
   - link: https://drive.google.com/file/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing
     icon_pack: ai
     icon: cv
