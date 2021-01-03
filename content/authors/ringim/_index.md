@@ -13,24 +13,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include management, Technology Management and Human Resource Management.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Management
+- Technology Management
+- Human Resource Management
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Management
+    institution: Universiti Utara Malaysia
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Islamic Finance & Banking 
+    institution: Kolej University, Insaniah (KUIN), Kedah, Malaysia 
+    year: 2012
+  - course: Master of  Business  Administration (MBA) 
+    institution: Kolej University, Insaniah (KUIN), Kedah, Malaysia 
+    year: 1997
+  - course: BSc in Accounting
+    institution: Bayero University Kano, Nigeria
+    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
