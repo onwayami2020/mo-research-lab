@@ -10,7 +10,7 @@ role: Professor of Research Collaboration
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Collaboration University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
