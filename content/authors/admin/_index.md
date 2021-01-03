@@ -10,46 +10,61 @@ role: Assistant Professor of HRM & Organisational Behaviour
 
 # Organizations/Affiliations
 organizations:
-- name: Universiti Teknologi Brunei
-  url: ""
+  - name: UTB School of Business, Universiti Teknologi Brunei
+    url: http://www.utb.edu.bn/academics/utb-school-of-business/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Workplace deviance
+  - Organisational citizenship behaviour
+  - Green behaviour at work
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: PhD in Human Resource Management
+      institution: Universiti Utara Malaysia
+      year: 2014
+    - course: MSc in Business Administration
+      institution: Ahmadu Bello University Zaria, Nigeria
+      year: 2012
+    - course: Master of Business Administration (MBA)
+      institution: Ahmadu Bello University Zaria, Nigeria
+      year: 2004
+    - course: BSc in Business Administration
+      institution: Bayero University Kano, Nigeria
+      year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/kmkura
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/dr-kabiru-maitama-kura-6272aa34/
+  - link: https://scholar.google.com/citations?user=fqQj-c8AAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
+  - icon_pack: ai
+    icon: publons
+    link: https://publons.com/researcher/1314624/kabiru-maitama-kura/
+  - link: https://orcid.org/0000-0001-7863-2604
+    icon_pack: ai
+    icon: orcid
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Kabiru_Kura
+  - link: https://drive.google.com/file/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing
+    icon_pack: ai
+    icon: cv
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
