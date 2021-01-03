@@ -6,7 +6,7 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  
+weight = 10  
 
 title = "Kabiru M. Kura, Ph.D."
 subtitle = ""
