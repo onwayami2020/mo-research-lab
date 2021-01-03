@@ -14,7 +14,7 @@ organizations:
   url: "http://www.utb.edu.bn/academics/utb-school-of-business/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: <div class=text-justify> My research interests focus workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership. </div>
+bio: My research interests focus workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership.
 
 interests:
 - Workplace deviance 
