@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kabiru Maitama Kura
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of HRM & Organisational Behaviour 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universiti Teknologi Brunei
+  url: "http://www.utb.edu.bn/academics/utb-school-of-business/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: <div class=text-justify> My research interests focus workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership. </div>
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Workplace deviance 
+- Organisational citizenship behaviour
+- Green behaviour at work
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Human Resource Management
+    institution: Universiti Utara Malaysia
+    year: 2014
+  - course: MSc in Business Administration
+    institution: Ahmadu Bello University Zaria, Nigeria
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+   - course: Master of Business Administration (MBA)
+    institution: Ahmadu Bello University Zaria, Nigeria
+    year: 2004
+  - course: BSc in Business Administration
+    institution: Bayero University Kano, Nigeria
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,6 +71,5 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div class=text-justify> Kabiru Maitama Kura is an Assistant Professor of HRM & Organisational Behaviour at the UTB School of Business, Universiti Teknologi Brunei. His research interests focus workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership. Prior to joining UTB School of Business, he was a Senior Lecturer/Director School of Remedial and Basic Studies, at the Federal Polytechnic Kaura Namoda, Nigeria.</div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
