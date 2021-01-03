@@ -41,6 +41,16 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+
+- icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/dr-kabiru-jj-kura-6272aa34/
    - link: https://scholar.google.com/citations?user=eC5wDncAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
