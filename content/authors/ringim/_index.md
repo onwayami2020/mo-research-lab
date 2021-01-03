@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Kabiru Maitama Kura
+title: Kabiru Jinjiri Ringim
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-
+role: Associate Professor of Business Administration
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Ahmadu Bello University Zaria
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
