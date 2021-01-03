@@ -91,3 +91,5 @@ Kabiru earned a Doctor of Philosophy degree (Ph.D.) in Human Resource Management
 He is a member, Asian Fellowship of Academic Professionals (AFAP), member, Nigerian Institute of Management (Chartered), Member, Commodity Brokers Association of Nigeria, member, Nigerian Institute of Management (Chartered), member, Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
 
 </div>
+
+[Personal website]https://www.kmkura.com/)
