@@ -39,6 +39,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
    - link: https://scholar.google.com/citations?user=eC5wDncAAAAJ&hl=en
     icon_pack: ai
