@@ -9,15 +9,16 @@ superuser: false
 role: Associate Professor of Business Administration
 # Organizations/Affiliations
 organizations:
-- name: Ahmadu Bello University Zaria
-  url: ""
+- name: Ahmadu Bello University Zaria, Nigeria
+  url: "https://abu.edu.ng/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include management, Technology Management and Human Resource Management.
+bio: My research interests include technology management, operations Management,  business project management and human resource management.
 
 interests:
-- Management
 - Technology Management
+- Operations Management 
+- Business Project Management
 - Human Resource Management
 
 education:
