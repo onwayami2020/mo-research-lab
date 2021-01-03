@@ -69,7 +69,10 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+<div class=text-justify> 
+Kabiru Jinjiri Ringim is an Associate Professor of Business Administration at the ABU Business School, Ahmadu Bello University, Zaria. His research interests focus on Business Process Reengineering, Information Technology Capability, Information and Communication Technology, Operation and Production Management, and Supply Chain Management. Ringim is an Associate Fellow (IIBI London) and Member of Malaysian Institute of Management and The Academy of Management Nigeria. 
+</div>
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<div class=text-justify>  
+Kabiru earned a Doctor of Philosophy degree (Ph.D.) in Operations Management from Universiti Utara Malaysia. Kabiru has published in Google Scholar, SCOPUS, Web of Science and ABDC Listed journals, such as International Journal of Asian Business and Information Management, International Journal of Islamic and Middle Eastern Finance and Management, International Journal of Economic Research, Asian Social Science, Middle East Journal of Scientific Research, Journal of Internet Banking and Commerce, and SAGE Open.
+</div>
