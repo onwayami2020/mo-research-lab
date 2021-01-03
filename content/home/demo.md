@@ -6,14 +6,14 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 0  
+weight = 10  
 
 title = ""
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "10"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
