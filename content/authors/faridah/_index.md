@@ -6,7 +6,7 @@ title: Faridahwati Mohd Shamsudin
 superuser: false
 
 # Role/position
-role: Associate Professor of Business Administration
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
