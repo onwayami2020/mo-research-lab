@@ -11,21 +11,21 @@ role: Associate Professor of Business Administration
 # Organizations/Affiliations
 organizations:
 - name: Akhawayn University Ifrane
-  url: ""
+  url: "http://www.aui.ma/en/sba/faculty.html?itemid=680"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Human Resource Management, Organizational Behavior and Team Performance.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Human Resource Management
+- Organizational Behavior
+- Team Performance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Behavior in Organizations
+    institution: Lancaster University
+    year: 20xx
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -38,18 +38,25 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+   - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/faridahwati-mohd-shamsudin-1a479650/?originalSubdomain=ma
+  - link: https://scholar.google.com/citations?user=A9FUJAcAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
+  - icon_pack: ai
+    icon: publons
+    link: https://publons.com/researcher/1539407/faridahwati-mohd-shamsudin/
+  - link: https://orcid.org/0000-0003-2854-6681
+    icon_pack: ai
+    icon: orcid
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Faridahwati_Mohd-Shamsudin
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
