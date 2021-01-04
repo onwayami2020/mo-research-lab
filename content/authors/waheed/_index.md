@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Kabiru Jinjiri Ringim
+title:  Waheed Ali Umrani
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor of Business Administration
+role: Associate Professor of Organizational Behavior and Human Resource Management
 # Organizations/Affiliations
 organizations:
-- name: Ahmadu Bello University Zaria, Nigeria
-  url: "https://abu.edu.ng/"
+- name: Sukkur IBA University, Sindh, Pakistan
+  url: "https://www.iba-suk.edu.pk/faculty/details/INS-0041"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include technology management, operations Management,  business project management and human resource management.
+bio: My research interests include Leadership, Organizational Behavior, Corporate Entrepreneurship, and Human Resource Management.
 
 interests:
-- Technology Management
-- Operations Management 
-- Business Project Management
+- Leadership
+- Organizational Behavior 
+- Corporate Entrepreneurship
 - Human Resource Management
 
 education:
   courses:
-  - course: PhD in Management
+  - course: PhD in Management Sciences
     institution: Universiti Utara Malaysia
-    year: 2012
-  - course: MSc in Islamic Finance & Banking 
-    institution: Kolej University, Insaniah (KUIN), Kedah, Malaysia 
-    year: 2012
+    year: 2016
   - course: Master of  Business  Administration (MBA) 
-    institution: Kolej University, Insaniah (KUIN), Kedah, Malaysia 
-    year: 1997
+    institution: University of Sindh, Pakistan 
+    year: 2008
   - course: BSc in Accounting
     institution: Bayero University Kano, Nigeria
     year: 1989
@@ -47,23 +44,23 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/kmkura
+    link: https://publons.com/researcher/3138236/waheed-ali-umrani/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/dr-kabiru-maitama-kura-6272aa34/
-  - link: https://scholar.google.com/citations?user=eC5wDncAAAAJ&hl=en
+    link: https://www.linkedin.com/in/dr-waheed-ali-umrani-7322671a/?originalSubdomain=pk
+  - link: https://scholar.google.com/citations?user=DQ9lSB4AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
   - icon_pack: ai
     icon: publons
-    link: https://publons.com/researcher/3658461/kabiru-jinjiri-ringim/
-  - link: https://orcid.org/0000-0002-4708-231X
+    link: https://publons.com/researcher/3138236/waheed-ali-umrani/
+  - link: https://orcid.org/0000-0001-9835-3979
     icon_pack: ai
     icon: orcid
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Kabiru_Ringim
-  - link: https://drive.google.com/file/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing
+    link: https://www.researchgate.net/profile/Waheed_Umrani
+  - link: https://scholar.google.com/citations?user=DQ9lSB4AAAAJ&hl=en
     icon_pack: ai
     icon: cv
 # Link to a PDF of your resume/CV from the About widget.
@@ -85,13 +82,6 @@ user_groups:
 ---
 <div class=text-justify> 
 
-Kabiru Jinjiri Ringim is an Associate Professor of Business Administration at the ABU Business School, Ahmadu Bello University, Zaria. His research interests focus on Business Process Reengineering, Information Technology Capability, Information and Communication Technology, Operation and Production Management, and Supply Chain Management. Ringim is an Associate Fellow (IIBI London) and Member of Malaysian Institute of Management and The Academy of Management Nigeria. 
-
-</div>
-
-
-<div class=text-justify>  
-
-Kabiru earned a Doctor of Philosophy degree (Ph.D.) in Operations Management from Universiti Utara Malaysia. Kabiru has published in Google Scholar, SCOPUS, Web of Science and ABDC Listed journals, such as International Journal of Asian Business and Information Management, International Journal of Islamic and Middle Eastern Finance and Management, International Journal of Economic Research, Asian Social Science, Middle East Journal of Scientific Research, Journal of Internet Banking and Commerce, and SAGE Open.
+Dr. Waheed Ali Umrani Works as Associate Professor of Organizational Behavior and Human Resource Management, at Department of Business Administration, Sukkur IBA University, Sindh, Pakistan. Dr. Umrani holds PhD in Management Sciences from University Utara Malaysia and an MBA from Pakistan. His research interest includes Leadership, Organizational Behavior, Corporate Entrepreneurship, and Human Resource Management. Dr. Umrani is founder and is currently leading Sukkur IBA Case Research Center, an initiative to promote case teaching and case writing at Sukkur IBA. He also holds a high reputation at Sukkur IBA due to his extraordinary contribution in Case Teaching and Case Writing. He has designed course modules for teaching and training on Entrepreneurship, Human Resource Management, Organizational Behavior & Leadership, Change Management & Innovation through case method. At the international level Dr. Umrani has worked in close association with faculty from Ivey Business School, University Malaya Malaysia, Indian Institute of Management Banglore, (India), Asia Pacific Institute of India, Arab Open University Bahrain, and Universiti Utara Malaysia for developing/trainings of cases method and other joint research projects. Whereby at the national level, Dr. Umrani has the honor to work closely with the top most senior faculty of Lahore University of Management Sciences (LUMS) Lahore, Pakistan and IBA Karachi on case teaching, writing, training, and other joint research projects. Dr. Umrani has successfully supervised PhD and Masters students. Won Research Grants at National and International Level and has successfully conducted consultancy for various organizations. He has remained Brand Ambassador for Emerald in Pakistan/UAE in 2018. Dr. Umrani and his students also won Best Case Writing Award in Emerald/HEC Case Writing Competition in 2018/2019. He has presented his work in reputed conferences such as Academy of Management etc. Dr. Umrani has published in top-notch journals such Personnel Review, Journal of Knowledge Management, Academy of Management Proceedings, Leadership & Organization Development Journal, European Journal of Innovation Management, Corporate Social Responsibility and Environmental Management, Journal of Environmental Management, British Food Journal, SageOpen, and Global Business Review to name a few. Some of his work is under-review with high quality journals such as International Journal of HRM, Journal of Business Research, Journal of Business Ethics, Journal of Applied Psychology, and Strategic Management Journal. As a trainer Dr. Umrani has conducted professional trainings for corporate and academicians in Malaysia, United Arab Emirates, and all around Pakistan. Where he has had the opportunity to train, interact and learn from people of 150 different countries. His training portfolio falls in three major areas that include Leadership & Management Development, Case Writing and Case Teaching and Research Methods (from research design to data analysis through latest Structural Equation Modelling Approaches and SPSS). Some of his most popular workshops that have got recognition at national and international level are Designing a Survey Research, How to write an empirical research article, Data-Analysis through Partial Least Square Structural Equation Modeling, Teaching through Case Method, Developing Teaching Cases, Team Building, Decision Making and Developing Effective Leadership through 7-habits of highly effective people. Participants who have benefitted from his trainings, in open as well as customized trainings, have come from various reputed organizations such as University Technology Malaysia, Arab Open University Bahrain, Putra Business School, Universiti Utara Malaysia, State Bank of Pakistan, World Bank, Nestle Pakistan, Engro Foods Pvt Ltd, Isra University Hyderabad, US-AID (Pakistan), Atlas Honda, SRSO (Pakistan), P&G (Pakistan), Pakistan State Oil, Telenor Pakistan, JS Bank, HBL, Allied Bank, MCB, SZABIST Karachi/Larkana, IOBM Karachi, PAF-KIET Karachi, Jinnah Women University Karachi, Iqra University Karachi, IBA Karachi, BZ Multan, University of Sindh, Jamshoro, Mehran Engineering University, and Sukkur IBA University and many others from diversified organizations such as NGOs, Banks and other national institutions.
 
 </div>
