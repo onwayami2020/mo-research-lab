@@ -11,7 +11,7 @@ role: Associate Professor of Business Administration
 # Organizations/Affiliations
 organizations:
 - name: Akhawayn University Ifrane
-  url: ""
+  url: "http://www.aui.ma/en/sba/faculty.html?itemid=680"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human Resource Management, Organizational Behavior and Team Performance
