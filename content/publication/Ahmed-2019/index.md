@@ -42,7 +42,7 @@ abstract: '<div class=text-justify> The purpose of this article is to examine th
 publication: '*Global Business Review, 21*(1), 31-53'
 
 links:
-  - name: Contact me for a PDF if you don't have journal access
+  - name: Contact us for a PDF if you don't have journal access
     url: '#contact'
 
 ---
