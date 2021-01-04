@@ -28,7 +28,7 @@ summary: ""
 tags: 
 - Organisational Trust 
 - Organisational Support 
-- Constructive Deviance"
+- Constructive Deviance
 featured: false
 
 links:
