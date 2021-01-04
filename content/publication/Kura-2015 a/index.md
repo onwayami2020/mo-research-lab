@@ -25,7 +25,11 @@ abstract: <div class=text-justify> Extant empirical research has reported confli
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: "sgo"
+tags: 
+ - Self-Regulatory Efficacy 
+ - Punishment Certainty 
+ - Punishment Severity 
+ - n Organizational Deviance
 featured: false
 
 links:
