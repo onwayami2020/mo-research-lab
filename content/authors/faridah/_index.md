@@ -25,13 +25,13 @@ education:
   courses:
   - course: PhD in Behavior in Organizations
     institution: Lancaster University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2004
+  - course: MSc in Human Resource Management
+    institution: University of Saskatchewan
+    year: 1993
+  - course: Bachelor of Business Administration (BBA)
+    institution: International Islamic University Malaysia
+    year: 1989
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
