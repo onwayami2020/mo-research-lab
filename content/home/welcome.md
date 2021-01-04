@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-<div class=text-justify> The Management & Organisational Research Lab has been a center of excellence for research in human resource management, organisational behaviour and management education since its founding in 2020.</div>
+<div class=text-justify> The Management & Organisational Research Lab has been a center of excellence for research in human resource management, organisational behaviour and management education since its founding in 2015.</div>
