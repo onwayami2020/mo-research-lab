@@ -58,7 +58,7 @@ social:
     icon: orcid
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Kabiru_Ringim
+    link: https://www.researchgate.net/profile/Faridahwati_Mohd-Shamsudin
   - link: https://drive.google.com/filue/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing
     icon_pack: ai
     icon: cv
