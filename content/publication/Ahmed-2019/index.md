@@ -1,6 +1,5 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-canonicalurl = "https://moresearchlab.org/publication/ahmed-2019/"
 
 title: 'Modelling the Link Between Developmental Human Resource Practices and Work Engagement: The Moderation Role of Service Climate'
 subtitle: ''
