@@ -14,7 +14,7 @@ organizations:
   url: "http://www.aui.ma/en/sba/faculty.html?itemid=680"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human Resource Management, Organizational Behavior and Team Performance.
+bio: My research interests include Human Resource Management, Organizational Behavior and Team Performance
 
 interests:
 - Human Resource Management
