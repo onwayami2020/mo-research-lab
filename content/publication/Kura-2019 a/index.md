@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-  - name: Contact me for a PDF if you don't have journal access
+  - name: Contact us for a PDF if you don't have journal access
     url: '#contact'
 url_pdf: https://www.tandfonline.com/doi/full/10.1080/15228916.2019.1583974?scroll=top&needAccess=true
 url_code: ''
