@@ -41,7 +41,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-   - icon: linkedin
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/kmikura
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/faridahwati-mohd-shamsudin-1a479650/?originalSubdomain=ma
   - link: https://scholar.google.com/citations?user=A9FUJAcAAAAJ&hl=en
@@ -55,8 +58,10 @@ social:
     icon: orcid
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Faridahwati_Mohd-Shamsudin
-
+    link: https://www.researchgate.net/profile/Kabiru_Ringim
+  - link: https://drive.google.com/filue/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing
+    icon_pack: ai
+    icon: cv
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
