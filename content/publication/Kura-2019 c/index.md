@@ -31,7 +31,7 @@ tags: 'ipad'
 featured: false
 
 links:
-  - name: Contact me for a PDF if you don't have journal access
+  - name: Contact us for a PDF if you don't have journal access
     url: '#contact'
 url_pdf: https://doi.org/10.1080/01900692.2018.1498105
 url_code: ''
