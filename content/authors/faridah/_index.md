@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Behavior in Organizations
     institution: Lancaster University
-    year: 20xx
+    year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
