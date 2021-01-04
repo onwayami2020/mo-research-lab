@@ -41,7 +41,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://publons.com/researcher/3138236/waheed-ali-umrani/
+    link: https://twitter.com/umrani_ali
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dr-waheed-ali-umrani-7322671a/?originalSubdomain=pk
