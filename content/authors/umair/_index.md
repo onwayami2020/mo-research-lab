@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Faridahwati Mohd Shamsudin
+title: Umair Ahmed
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Akhawayn University Ifrane
-  url: "http://www.aui.ma/en/sba/faculty.html?itemid=680"
+- name: Arab Open University - Bahrain
+  url: "http://www.aou.org.bh/faculties/business/Pages/portfolio.aspx?iid=97"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human Resource Management, Organizational Behavior and Team Performance
@@ -23,15 +23,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Behavior in Organizations
-    institution: Lancaster University
-    year: 2004
-  - course: MSc in Human Resource Management
-    institution: University of Saskatchewan
-    year: 1993
-  - course: Bachelor of Business Administration (BBA)
-    institution: International Islamic University Malaysia
-    year: 1989
+  - course: PhD in Human Resources Management
+    institution: Universiti Utara Malaysia
+    year: 2017
+  - course: Master of Business Adminstration (MBA)
+    institution: University of East London
+    year: 2009
+  - course: Bachelor of Business Studies
+    institution: Cardiff Metropolitan University
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,23 +43,23 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/kmikura
+    link: https://orcid.org/0000-0001-9130-5210
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/faridahwati-mohd-shamsudin-1a479650/?originalSubdomain=ma
-  - link: https://scholar.google.com/citations?user=A9FUJAcAAAAJ&hl=en
+    link: https://www.linkedin.com/in/dr-umair-ahmed-08174421/?originalSubdomain=bh
+  - link: https://scholar.google.com/citations?user=NyHKAcYAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
   - icon_pack: ai
     icon: publons
     link: https://publons.com/researcher/1539407/faridahwati-mohd-shamsudin/
-  - link: https://orcid.org/0000-0003-2854-6681
+  - link: https://orcid.org/0000-0001-9130-5210
     icon_pack: ai
     icon: orcid
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Faridahwati_Mohd-Shamsudin
-  - link: https://drive.google.com/filue/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing
+    link: https://www.researchgate.net/profile/Umair_Ahmed8
+  - link: https://orcid.org/0000-0001-9130-5210
     icon_pack: ai
     icon: cv
 # Link to a PDF of your resume/CV from the About widget.
@@ -80,4 +80,4 @@ user_groups:
 - Researchers
 ---
 
-<div class=text-justify>  Faridahwati Mohd Shamsudin is an Associate Professor of Business Administration at the Akhawayn University Ifrane. Her research interests include dysfunctional or deviant behavior at work, human resource management practices, and leadership. She taught various courses at the undergraduate and postgraduate levels at Universiti Utara Malaysia, SQU and Akhawayn University Ifrane. She published a number of articles in various refereed journals such as Disaster Prevention and Management, Leadership in Health Services Journal, International Journal of Public Sector Management, International Business Management, and Journal of Health Organization and Management, amongst others. She has received research grants from the Ministry of Higher Education on research projects related to human resource management and other management issues. Her research team has also secured a research grant from the Construction Research Institute of Malaysia (CREAM) on foreign worker dependency. She also received several Best Paper Awards in conferences. </div>
+<div class=text-justify>  Dr. Umair Ahmed is an Educationist by Profession and Trainer by Passion. He is specialized in the domain of Human Resource Management with a more particularized interest in employees ‘work-wellbeing. His major scholarly work relates to the topic of employee engagement, organizational learning and individual behavior. Currently he is serving as Assistant Professor at Arab Open University, Bahrain branch. He recently also published book titled, ‘313 Tips for Trainers’. </div>
