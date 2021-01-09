@@ -1,0 +1,23 @@
+# Theme metadata
+name = "Kabiru's Theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#4169e1"
+
+# Links
+link = "#0000EE"
+link_hover = "#4169e1"
+
+# Menu
+menu_primary = "#4169e1" 
+menu_text = "#fff"
+menu_text_active = "#fff"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(255, 255, 255)"
+© 2021 GitHub, Inc.
