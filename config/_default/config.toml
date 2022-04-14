@@ -14,7 +14,7 @@ baseurl = ""
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Copyright © 2021, Management & Organisational Research Lab. All Rights Reserved."
+copyright = "Copyright © 2022, Management & Organisational Research Lab. All Rights Reserved."
 
 ############################
 ## Advanced options below ##
