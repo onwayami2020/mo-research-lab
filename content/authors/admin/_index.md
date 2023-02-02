@@ -18,9 +18,14 @@ bio: My research interests include workplace deviance, organisational citizenshi
 
 interests:
   - Workplace deviance
+  - Counterproductive work behaviour
   - Organisational citizenship behaviour
-  - Green behaviour at work
-
+  - Job attitudes
+  - Personality & individual differences
+  - Workplace green behaviour
+  - Equity, diversity, and inclusion
+  - Open science, and meta-analysis
+  
 education:
   courses:
     - course: PhD in Human Resource Management
@@ -84,11 +89,11 @@ user_groups:
 ---
 <div class=text-justify> 
 
-[Kabiru Maitama Kura](https://www.kmkura.com/) is an Assistant Professor of HRM & Organisational Behaviour at the UTB School of Business, Universiti Teknologi Brunei. His research interests focus workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership. Prior to joining UTB School of Business, he was a Senior Lecturer/Director School of Remedial and Basic Studies, at the Federal Polytechnic Kaura Namoda, Nigeria.
+[Kabiru Maitama Kura](https://www.kmkura.com/) is an Assistant Professor of HRM & Organisational Behaviour at the UTB School of Business, Universiti Teknologi Brunei. Kabiru is also a Visiting Associate Professor (Reader) at the Department of Business Management, Capital City University Kano, Nigeria. His research interests focus on workplace deviance, counterproductive work behaviour, organisational citizenship behaviour, job attitudes, personality and individual differences, leadership, workplace green behaviour, safety performance, equity, diversity, and inclusion, open science, and meta-analysis. Prior to joining UTB School of Business, he was a Senior Lecturer/Director School of Remedial and Basic Studies, at the Federal Polytechnic Kaura Namoda, Nigeria.
 
-Kabiru earned a Doctor of Philosophy degree (Ph.D.) in Human Resource Management from Universiti Utara Malaysia. Kabiru has published in SCOPUS, Web of Science, ABS Ranking and ABDC Listed journals, such as the Global Business Review, Journal of African Business, International Journal of Public Administration, African Journal of Economic and Management Studies, International Journal of Business and Society, and SAGE Open.
+Kabiru earned a Doctor of Philosophy degree (PhD) in Human Resource Management from Universiti Utara Malaysia. Kabiru has published in SCOPUS, Web of Science, ABS Ranking and ABDC Listed journals, such as the Global Business Review, Journal of African Business, International Journal of Public Administration, African Journal of Economic and Management Studies, International Journal of Business and Society, and SAGE Open.
 
-He is a member, Asian Fellowship of Academic Professionals (AFAP), member, Nigerian Institute of Management (Chartered), Member, Commodity Brokers Association of Nigeria, member, Nigerian Institute of Management (Chartered), member, Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
+He is a member of various professional bodies, including the Academy of Management (AOM), Society for Human Resource Management (SHRM), British Academy of Management (BAM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter..
 
 </div>
 
