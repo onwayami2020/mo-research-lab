@@ -18,13 +18,12 @@ bio: My research interests include workplace deviance, organisational citizenshi
 
 interests:
   - Workplace deviance
-  - Counterproductive work behaviour
-  - Organisational citizenship behaviour
-  - Job attitudes
-  - Personality & individual differences
-  - Workplace green behaviour
-  - Equity, diversity, and inclusion
-  - Open science, and meta-analysis
+  - Open Science Practices
+  - Partial Least Squares Path Modeling
+  - Multilevel Regression Modeling
+  - Statistical Analysis with R
+  - Necessary Condition Analysis
+  - Systematic Review and Meta-Analysis
 
 education:
   courses:
@@ -89,11 +88,17 @@ user_groups:
 ---
 <div class=text-justify> 
 
-[Kabiru Maitama Kura](https://www.kmkura.com/) is an Assistant Professor of HRM & Organisational Behaviour at the UTB School of Business, Universiti Teknologi Brunei. Kabiru is also a Visiting Associate Professor (Reader) at the Department of Business Management, Capital City University Kano, Nigeria. His research interests focus on workplace deviance, counterproductive work behaviour, organisational citizenship behaviour, job attitudes, personality and individual differences, leadership, workplace green behaviour, safety performance, equity, diversity, and inclusion, open science, and meta-analysis. Prior to joining UTB School of Business, he was a Senior Lecturer/Director School of Remedial and Basic Studies, at the Federal Polytechnic Kaura Namoda, Nigeria.
+[Dr. Kabiru Maitama Kura](https://www.kmkura.com/) is an Industrial-Organizational Psychologist with over 20 years of teaching, research, administrative, and consulting experience. Dr. Kabiru is currently an Associate Professor of Human Resource Management at the School of Business, Bahrain Polytechnic. Before accepting his current academic role at Bahrain Polytechnic, Dr. Kabiru was an Assistant Professor of Human Resource Management and Organizational Behavior at the UTB School of Business, Universiti Teknologi Brunei. He was also a Visiting Associate Professor (Reader) at the Department of Business Management, Capital City University Kano, Nigeria.
 
-Kabiru earned a Doctor of Philosophy degree (PhD) in Human Resource Management from Universiti Utara Malaysia. Kabiru has published in SCOPUS, Web of Science, ABS Ranking and ABDC Listed journals, such as the Global Business Review, Journal of African Business, International Journal of Public Administration, African Journal of Economic and Management Studies, International Journal of Business and Society, and SAGE Open.
+His academic career began at the Federal Polytechnic Kaura Namoda, Nigeria, where he rose to the position of Senior Lecturer. Beyond his teaching responsibilities, Dr. Kabiru also assumed the Director of the School of Remedial and Basic Studies role at Federal Polytechnic, Kaura Namoda, Nigeria.
 
-He is a member of various professional bodies, including the Academy of Management (AOM), Society for Human Resource Management (SHRM), British Academy of Management (BAM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria. Kabiru was the chairman of the Nigerian Institute of Management (Chartered), Zaria Chapter.
+Dr. Kabiru received his Doctor of Philosophy (Ph.D.) in Human Resource Management from the Universiti Utara Malaysia. His research focuses on workplace deviance, counterproductive work behavior, organizational citizenship behavior, job attitudes, personality and individual differences, leadership, green workplace behavior, safety performance, and diversity management.
+
+Dr. Kabiru has published several articles in top-tier journals and participated in international conferences and workshops. To give back to the scientific community, he also served as a reviewer and editor for many scholarly journals, including the International Journal of Human Resource Management, Frontiers in Psychology - Organizational Psychology, and SAGE Open.
+
+He has also received several awards, including the Universiti Teknologi Brunei’s Teaching Excellence Award and Best Paper Award at the 6th International Borneo Business Conference (IBBC) 2014, organized by the Faculty of Business and Economics, University Malaysia Sarawak (UNIMAS), as well as the 3rd International Conference on Business Management (ICBM) 2018.
+
+Dr. Kabiru is a member of various professional bodies, including the Academy of Management (AOM), Australian & New Zealand Academy of Management (ANZAM), American Psychological Association (APA), Nigerian Institute of Management (Chartered), Commodity Brokers Association of Nigeria, and Institute of Management Consultants of Nigeria.
 
 </div>
 
