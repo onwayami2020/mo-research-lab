@@ -6,12 +6,12 @@ title: Kabiru Maitama Kura
 superuser: true
 
 # Role/position
-role: Assistant Professor of HRM & Organisational Behaviour
+role: Associate Professor of Human Resource Management
 
 # Organizations/Affiliations
 organizations:
-  - name: UTB School of Business, Universiti Teknologi Brunei
-    url: http://www.utb.edu.bn/academics/utb-school-of-business/
+  - name: Faculty of Business and Logistics, Bahrain Polytechnic
+    url: https://www.polytechnic.bh/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include workplace deviance, organisational citizenship behaviour, job attitudes, personality and individual differences, green behaviour at work, and leadership.
