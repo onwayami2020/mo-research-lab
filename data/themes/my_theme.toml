@@ -9,7 +9,7 @@ primary = "#ff0000"
 
 # Links
 link = "#0000EE"
-link_hover = "#ff0000"
+link_hover = "#0000EE"
 
 # Menu
 menu_primary = "#ff0000" 
