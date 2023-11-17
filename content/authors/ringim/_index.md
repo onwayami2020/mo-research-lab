@@ -6,7 +6,7 @@ title: Kabiru Jinjiri Ringim
 superuser: false
 
 # Role/position
-role: Associate Professor of Business Administration
+role: Professor of Business Administration
 # Organizations/Affiliations
 organizations:
 - name: Ahmadu Bello University Zaria, Nigeria
