@@ -6,7 +6,9 @@ title: Kabiru Maitama Kura
 superuser: true
 
 # Role/position
-role: Associate Professor of Human Resource Management
+roles:
+  - Associate Professor of Human Resource Management
+  - Lead, Entrepreneurship and HRM Research Group
 
 # Organizations/Affiliations
 organizations:
