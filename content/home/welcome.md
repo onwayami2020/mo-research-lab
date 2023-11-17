@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-<div class=text-justify> The Management & Organisational Research Lab has been a center of excellence for research in human resource management, organisational behaviour and management education since its founding in 2015.</div>
+<div class=text-justify> The Entrepreneurship and Human Resource Management (EHRM) Research Group, a recent addition to the Faculty of Business and Logistics at Bahrain Polytechnic, is dedicated to advancing research in entrepreneurship, human resource management, and general management. We focus on conducting cutting-edge research with practical implications and collaborating closely with industry partners and academic institutions to deliver high-impact outcomes. Through a commitment to excellence and a multidisciplinary approach, we aim to provide valuable insights bridging the gap between theory and practice, contributing to academic scholarship and the business community's needs.</div>
