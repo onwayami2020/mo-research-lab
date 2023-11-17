@@ -6,7 +6,7 @@ title: Kabiru Jinjiri Ringim
 superuser: false
 
 # Role/position
-role: Professor of Business Administration
+role: Professor of Technology Management
 # Organizations/Affiliations
 organizations:
 - name: Ahmadu Bello University Zaria, Nigeria
@@ -85,7 +85,7 @@ user_groups:
 ---
 <div class=text-justify> 
 
-Kabiru Jinjiri Ringim is an Associate Professor of Business Administration at the ABU Business School, Ahmadu Bello University, Zaria. His research interests focus on Business Process Reengineering, Information Technology Capability, Information and Communication Technology, Operation and Production Management, and Supply Chain Management. Ringim is an Associate Fellow (IIBI London) and Member of Malaysian Institute of Management and The Academy of Management Nigeria. 
+Kabiru Jinjiri Ringim is an Professor of Technology Management at the ABU Business School, Ahmadu Bello University, Zaria. His research interests focus on Business Process Reengineering, Information Technology Capability, Information and Communication Technology, Operation and Production Management, and Supply Chain Management. Ringim is an Associate Fellow (IIBI London) and Member of Malaysian Institute of Management and The Academy of Management Nigeria. 
 
 </div>
 
