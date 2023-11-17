@@ -1,71 +1,55 @@
 ---
 # Display name
-title: Kabiru Jinjiri Ringim
+title: Professor Research Collaborator
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Technology Management
+role: Professor of Research Collaboration
+
 # Organizations/Affiliations
 organizations:
-- name: Ahmadu Bello University Zaria, Nigeria
-  url: "https://abu.edu.ng/"
+- name: Collaboration University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include technology management, operations Management,  business project management and human resource management.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Technology Management
-- Operations Management 
-- Business Project Management
-- Human Resource Management
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Management
-    institution: Universiti Utara Malaysia
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
     year: 2012
-  - course: MSc in Islamic Finance & Banking 
-    institution: Kolej University, Insaniah (KUIN), Kedah, Malaysia 
-    year: 2012
-  - course: Master of  Business  Administration (MBA) 
-    institution: Kolej University, Insaniah (KUIN), Kedah, Malaysia 
-    year: 1997
-  - course: BSc in Accounting
-    institution: Bayero University Kano, Nigeria
-    year: 1989
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/kmkura
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/kabiru-jinjiri-ringim-843ba531/
-  - link: https://scholar.google.com/citations?user=eC5wDncAAAAJ&hl=en
-    icon_pack: ai
-    icon: google-scholar
-  - icon_pack: ai
-    icon: publons
-    link: https://publons.com/researcher/3658461/kabiru-jinjiri-ringim/
-  - link: https://orcid.org/0000-0002-4708-231X
-    icon_pack: ai
-    icon: orcid
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Kabiru_Ringim
-  - link: https://drive.google.com/file/d/1ynXYtwUvHCIAHMuZAMze6K5hwGhrjE5N/view?usp=sharing
-    icon_pack: ai
-    icon: cv
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:test@example.org'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -81,17 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Collaborators
 ---
-<div class=text-justify> 
 
-Kabiru Jinjiri Ringim is a Professor of Technology Management at the ABU Business School, Ahmadu Bello University, Zaria. His research interests focus on Business Process Reengineering, Information Technology Capability, Information and Communication Technology, Operation and Production Management, and Supply Chain Management. Ringim is an Associate Fellow (IIBI London) and Member of Malaysian Institute of Management and The Academy of Management Nigeria. 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-</div>
-
-
-<div class=text-justify>  
-
-Kabiru earned a Doctor of Philosophy degree (Ph.D.) in Operations Management from Universiti Utara Malaysia. Kabiru has published in Google Scholar, SCOPUS, Web of Science and ABDC Listed journals, such as International Journal of Asian Business and Information Management, International Journal of Islamic and Middle Eastern Finance and Management, International Journal of Economic Research, Asian Social Science, Middle East Journal of Scientific Research, Journal of Internet Banking and Commerce, and SAGE Open.
-
-</div>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
