@@ -77,7 +77,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Collaborators
 ---
 
 <div class=text-justify>  Dr. Umair Ahmed is an Educationist by Profession and Trainer by Passion. He is specialized in the domain of Human Resource Management with a more particularized interest in employees ‘work-wellbeing. His major scholarly work relates to the topic of employee engagement, organizational learning and individual behavior. Currently he is serving as Assistant Professor at Arab Open University, Bahrain branch. He recently also published book titled, ‘313 Tips for Trainers’. </div>
