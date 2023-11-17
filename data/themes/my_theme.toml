@@ -8,8 +8,8 @@ light = true
 primary = "#ff0000"
 
 # Links
-link = "#0000EE"
-link_hover = "#0000EE"
+link = "#0000FF"
+link_hover = "#0000FF"
 
 # Menu
 menu_primary = "#ff0000" 
